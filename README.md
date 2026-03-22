@@ -33,7 +33,6 @@ MINISTÈRE **DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE**
  [B. Encapsulation](#encapsulation) 
  [C. Rôle des équipements (routeur, switch)](#rôle-des-équipements-routeur-switch) 
 [CONCLUSION](#conclusion) 
-[WEBOGRAPHIE](#webographie)
 ---
 # INTRODUCTION
 Imaginez la scène : vous tapez « google.com » dans votre navigateur. En quelques millisecondes, la page s'affiche. Pourtant, entre votre ordinateur et le serveur de Google, des milliers de kilomètres sont parcourus, des dizaines d'équipements sont sollicités. Comment votre message arrive‑t‑il exactement au bon endroit, sans se perdre ?
@@ -111,22 +110,4 @@ Nous avons parcouru les fondements de la communication réseau.
 L'adressage IP donne une identité unique à chaque machine, qu'il s'agisse d'une adresse privée dans un réseau local ou d'une adresse publique sur Internet.
 Les protocoles, quant à eux, organisent les échanges : IP achemine, TCP assure la fiabilité, UDP privilégie la rapidité, et des services comme DNS, DHCP, ARP et ICMP facilitent le fonctionnement quotidien.
 Comprendre ces mécanismes permet de mieux appréhender les enjeux actuels : la transition vers IPv6 pour répondre à la croissance du nombre d'appareils, la sécurisation des communications (avec IPSec, TLS, etc.), et l'explosion des objets connectés (IoT) qui imposent de nouveaux défis en termes d'adressage et de protocoles.
----
-# WEBOGRAPHIE
-**Sources et documents de référence**
-- IETF – RFC Editor 
-  https://www.rfc-editor.org/
-- AFRINIC – Informations sur l'adressage IP 
-  https://www.afrinic.net/fr/about-us/ip-resources
-- AFRINIC – Recherche WHOIS 
-  https://www.afrinic.net/fr/services/whois-query ;
-  Interface publique pour consulter à qui appartient une adresse IP publique.
-- AFNIC – Comprendre le DNS (vidéo pédagogique) 
-  https://www.afnic.fr/observatoire-ressources/actualites/lafnic-met-en-ligne-une-video-sur-les-coulisses-des-noms-de-domaine/
-- Cisco Networking Academy – Introduction to Networks 
-  https://www.netacad.com/courses/networking/introduction-networks
-- Computer Networking : A Top-Down Approach (site compagnon) 
-  http://gaia.cs.umass.edu/kurose_ross/index.php
-- Cloudflare – Qu'est-ce qu'une adresse IP ? 
-  https://www.cloudflare.com/fr-fr/learning/dns/glossary/what-is-my-ip-address/
 ```
